@@ -18,5 +18,6 @@
 Failure to properly do so will just result in the pull request being closed and everyone's time wasted. Please read it twice. Thank you!
 
 - [ ] I have read the [Contribution guidelines](https://github.com/aviaryan/learn-for-free/blob/master/CONTRIBUTING.md) and made sure my pull request follows it, specifically the part about promotions and markdown format.
+- [ ] Any resources I am adding in this PR have been used by me and I can personally vouch for their quality.
 - [ ] This pull request has a descriptive title. For example, `Add [Resource Name]` or `Add [Topic Name]`, not `Added new entries` or `update`.
 - [ ] I have double checked that I have only updated the minimum files that are required by this PR.
