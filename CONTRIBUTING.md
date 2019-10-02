@@ -25,16 +25,11 @@ Website - {URL to the resource}
 To host images on GitHub, see the section below.
 
 
-### Upload Images to GitHub's CDN
+### Hosting images on GitHub
 
-1. First, visit any repository on GitHub and click your way through to the issues page.
+1. Open a [new issue](https://github.com/aviaryan/learn-for-free/issues/new) on any repository.
+2. Drag-drop or select and upload an image in the issue description area.
+3. Copy the markdown source, change the alt text and use it.
+4. You can close the **New Issue** page now.
 
-2. Create a new issue by clicking the **New Issue** button. You'll now see title and description fields. 
-
-3. Drag-and-drop an image on to the description field. This will start the uploading process.
-
-4. Copy the URL and use it in README, issues or pull requests however you like.
-
-![GIF demonstrating storing images on CDN](https://user-images.githubusercontent.com/499192/57450172-1a955f80-725e-11e9-9fed-267179bdab15.gif)
-
-> CREDITS https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d
+![GIF showing hosting images on GitHub](https://user-images.githubusercontent.com/4047597/66027946-9fd52580-e519-11e9-8e7f-c31ed6efcf05.gif)
