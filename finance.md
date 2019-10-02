@@ -3,6 +3,8 @@
 This file contains resources to learn all things finance and economics.
 
 * [Economics](#economics)
+* Investing
+* Personal Finance
 * [Trading](#trading)
 
 ## Economics
