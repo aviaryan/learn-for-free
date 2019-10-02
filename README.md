@@ -8,3 +8,9 @@ This project contains free learning resources for all topics you can think of.
 
 * [Finance](finance.md)
 * [Languages](languages.md)
+
+------
+
+### Contributing
+
+To contribute to this repo, please read the [guidelines](CONTRIBUTING.md) and then send a Pull Request. ❤️
