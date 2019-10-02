@@ -8,6 +8,7 @@ This project contains free learning resources for all topics you can think of.
 
 * [Finance](finance.md)
 * [Languages](languages.md)
+* [Marketing](marketing.md)
 * [Software Development](software-dev.md)
 
 ------
