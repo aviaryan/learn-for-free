@@ -15,7 +15,7 @@
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements.
 
-Failure to properly do so will just result in the pull request being closed and everyone's time wasted. Please read it twice. Thank you!
+Failure to properly do so will just result in the pull request being closed and everyone's time wasted.
 
 - [ ] I have read the [Contribution guidelines](https://github.com/aviaryan/learn-for-free/blob/master/CONTRIBUTING.md) and made sure my pull request follows it, specifically the part about promotions and markdown format.
 - [ ] Any resources I am adding in this PR have been used by me and I can personally vouch for their quality.
