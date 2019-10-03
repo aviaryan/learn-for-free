@@ -4,6 +4,7 @@ This files contains resources for marketing.
 
 * [Copywriting](#copywriting)
 * Email marketing
+* Facebook Ads
 
 
 ## Copywriting

@@ -1,6 +1,6 @@
 # Learn For Free
 
-[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md)
+[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md) ![hacktoberfest badge](https://img.shields.io/github/hacktoberfest/2019/aviaryan/learn-for-free)
 
 Why pay for a degree or a course when you can learn on the Internet for free? 
 
