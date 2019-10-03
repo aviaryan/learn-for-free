@@ -2,7 +2,7 @@
 
 This file contains resources to learn software development. Also check out the closely related [Programming](programming.md) topic.
 
-* App Development
+* [App Development](#app-development)
 * Scripting
 * [Web Development](#web-development)
 
