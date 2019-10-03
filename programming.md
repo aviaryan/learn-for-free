@@ -66,4 +66,4 @@ JavaScript.info is a web tutorial where you can find articles related to JavaScr
 
 Website: https://javascript.info
 
-![javascript.info](https://user-images.githubusercontent.com/29889620/66134989-d5136d80-e616-11e9-8668-cb59e473f57b.png)
+[![javascript.info](https://user-images.githubusercontent.com/4047597/66125034-93c59280-e603-11e9-9821-e7e01c360072.png)](https://javascript.info)
