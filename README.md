@@ -11,9 +11,26 @@ Please contribute to help take this project forward. 🙏🏾
 ## Topics
 
 * [Finance](finance.md)
+	* [Economics](finance.md#economics)
+	* Investing
+	* Personal Finance
+	* [Trading](finance.md#trading)
 * [Languages](languages.md)
+	* [Multi-language resources](languages.md#multi)
+	* English
+	* Japanese
+	* [Sanskrit](languages.md#sanskrit)
 * [Marketing](marketing.md)
+	* [Copywriting](marketing.md#copywriting)
+	* Email marketing
+	* Facebook Ads
 * [Programming](programming.md)
+	* [Android Development](programming.md#android-development)
+	* [Web Development](programming.md#web-development)
+	* Java
+	* [JavaScript](programming.md#javascript)
+	* Python
+	* Ruby
 
 ------
 
