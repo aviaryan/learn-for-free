@@ -1,10 +1,9 @@
 # Software Development
 
-This covers software development topics in general.
+This covers software development topics.
 
+* App Development
 * [Web Development](#web-development)
-* App Development - Android
-* App Development - iPhone
 
 
 ## Web Development
