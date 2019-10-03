@@ -3,7 +3,19 @@
 This file contains resources to learn software development. Also check out the closely related [Programming](programming.md) topic.
 
 * App Development
+* Scripting
 * [Web Development](#web-development)
+
+
+## App Development
+
+### Vogella's Android Tutorials
+
+Lars Vogel's article on Android Programming are an industry standard. His website contains articles on Android Development from beginner to expert level. You can go through it in the order they are listed.
+
+Website - https://www.vogella.com/tutorials/android.html
+
+[![vogella android resources screenshot](https://user-images.githubusercontent.com/4047597/66122279-ed768e80-e5fc-11e9-9beb-e57d51e04b33.png)](https://www.vogella.com/tutorials/android.html)
 
 
 ## Web Development
