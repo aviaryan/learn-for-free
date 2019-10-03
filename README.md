@@ -14,7 +14,6 @@ Please contribute to help take this project forward. 🙏🏾
 * [Languages](languages.md)
 * [Marketing](marketing.md)
 * [Programming](programming.md)
-* [Software Development](software-dev.md)
 
 ------
 
