@@ -61,8 +61,9 @@ Website - https://github.com/getify/You-Dont-Know-JS
 [![you don't know js github](https://user-images.githubusercontent.com/4047597/66125034-93c59280-e603-11e9-9821-e7e01c360072.png)](https://github.com/getify/You-Dont-Know-JS)
 
 ### JavaScript.Info
-JavaScript.info is a web tutorial where you can find articles related to JavaScript from knob to advanced.
+
+JavaScript.info is a web tutorial where you can find articles related to JavaScript from noob to advanced.
 
 Website: https://javascript.info
 
-![Image of Javascript.info](https://res.cloudinary.com/praveen-me/image/upload/v1570108840/javascript.info.png)
+![javascript.info](https://user-images.githubusercontent.com/29889620/66134989-d5136d80-e616-11e9-8668-cb59e473f57b.png)
