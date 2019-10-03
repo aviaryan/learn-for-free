@@ -1,5 +1,7 @@
 # Security
 
+This file contains resources to learn digital security skills and concepts.
+
 * Cryptography
 * [Ethical Hacking](#ethical-hacking)
 
