@@ -4,9 +4,7 @@
 
 Why pay for a degree or a course when you can learn on the Internet for free? 
 
-This project aims to contain free learning resources for all topics you can think of. 
-
-Please contribute to help take this project forward. 🙏🏾
+This project aims to contain free learning resources for all topics you can think of [WIP]. 
 
 ## Topics
 
