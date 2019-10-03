@@ -1,12 +1,12 @@
 # Contributing Guidelines
 
-Feel free to contribute to this project directly via a pull request.
+Feel free to contribute to this project directly via a pull request. 
 
 
 ## Adding new resources
 
 - When adding a new resource, **only add it if you can recommend it and have personally benefitted from it**.
-- Only add a resource which provides comprehensive knowledge of the sub-topic it is in. Example - Don't add a video on CSS Grid as a resource in the web development sub-topic. On the other hand, a good YouTube playlist on CSS will work. The more a resource covers the sub-topic, the better.
+- An included resource should provide comprehensive, self-sufficient knowledge of the sub-topic it is in. Example - Don't add a video on CSS Grid as a resource in the web development sub-topic. On the other hand, a good YouTube playlist on CSS will work. The more a resource covers the sub-topic, the better.
 - Adding new resources to promote them is strictly prohibited. Doing so, your Pull Request will be labelled `self-promotion` and any more contribution from you will not be considered.
 - Please follow correct format when adding the resource. See the format below.
 
