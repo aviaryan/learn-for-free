@@ -5,7 +5,7 @@ Feel free to contribute to this project directly via a pull request.
 
 ## Adding new resources
 
-- When adding a new resource, only add it if you can recommend it and have personally benefitted from it.
+- When adding a new resource, **only add it if you can recommend it and have personally benefitted from it**.
 - Adding new resources to promote them is strictly prohibited. Doing so, your Pull Request will be labelled `self-promotion` and any more contribution from you will not be considered.
 - Please follow correct format when adding the resource. See the format below.
 
@@ -35,7 +35,7 @@ The resources in each of the sub-topics should be ordered in the order they were
 
 
 <a name="host"></a>
-### Hosting images on GitHub
+## Hosting images on GitHub
 
 1. Open a [new issue](https://github.com/aviaryan/learn-for-free/issues/new) on any repository.
 2. Drag-drop or select and upload an image in the issue description area.
