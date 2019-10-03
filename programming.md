@@ -15,6 +15,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 **General Purpose**
 
 * Java
+* [JavaScript](#javascript)
 * Python
 * Ruby
 
@@ -47,3 +48,14 @@ Learn HTML and CSS from a free, premium video course by Udacity.
 Website - https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 [![html and CSS course by udacity](https://user-images.githubusercontent.com/4047597/66047080-c3619580-e544-11e9-8d37-d478e778ed98.png)](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+
+
+## JavaScript
+
+### You Don't Know JS
+
+You Don't Know JS is a free series of books for learning JavaScript at a deep level. Pick this resource if you want a strong understanding of JavaScript.
+
+Website - https://github.com/getify/You-Dont-Know-JS
+
+[![you don't know js github](https://user-images.githubusercontent.com/4047597/66125034-93c59280-e603-11e9-9821-e7e01c360072.png)](https://github.com/getify/You-Dont-Know-JS)
