@@ -7,7 +7,7 @@ This file contains resources to learn programming and software development. This
 
 A Goal-Oriented listing has higher priority so if a resource falls in both general purpose and goal-oriented, it automatically goes in goal-oriented and is not duplicated.
 
-**Goal Oriented**
+**Goal-Oriented**
 
 * [Android Development](#android-development)
 * [Web Development](#web-development)
