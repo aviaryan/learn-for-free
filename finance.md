@@ -28,7 +28,7 @@ Website - https://www.babypips.com/learn/forex
 
 [![baby pips forex course](https://user-images.githubusercontent.com/4047597/66023808-e756b400-e50f-11e9-817e-839b47d95631.png)](https://www.babypips.com/learn/forex)
 
-### Tutorials by Trading Room
+### Crypto Trading Tutorials by Trading Room
 
 Learn competent trading strategies from a veteran of crypto twitter. He also provides you with easy-to-use screeners to pick good setups.
 
