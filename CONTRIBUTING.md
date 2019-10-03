@@ -3,14 +3,14 @@
 Feel free to contribute to this project directly via a pull request.
 
 
-### Adding new resources
+## Adding new resources
 
 - When adding a new resource, only add it if you can recommend it and have personally benefitted from it.
 - Adding new resources to promote them is strictly prohibited. Doing so, your Pull Request will be labelled `self-promotion` and any more contribution from you will not be considered.
 - Please follow correct format when adding the resource. See the format below.
 
 
-### Resource listing markdown format
+## Resource listing markdown format
 
 ```md
 ### {Full name of resource}
@@ -22,9 +22,19 @@ Website - {URL to the resource}
 [![{image alt}]({Image URL of the resource, hosted on GitHub CDN})]({URL to the resource})
 ```
 
-To host images on GitHub, see the section below.
+To host images on GitHub, see the [hosting images section](#host).
 
 
+## Ordering of topics and resources
+
+In `README.md`, topics should be ordered in alphabetical order.
+
+In a topic file such as [finance.md](https://github.com/aviaryan/learn-for-free/blob/master/finance.md), sub-topics should be ordered in alphabetical order.
+
+The resources in each of the sub-topics should be ordered in the order they were added.
+
+
+<a name="host"></a>
 ### Hosting images on GitHub
 
 1. Open a [new issue](https://github.com/aviaryan/learn-for-free/issues/new) on any repository.
