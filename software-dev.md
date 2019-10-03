@@ -1,6 +1,6 @@
 # Software Development
 
-This covers software development topics.
+This file contains resources to learn software development. Also check out the closely related [Programming](programming.md) topic.
 
 * App Development
 * [Web Development](#web-development)
