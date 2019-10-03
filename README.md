@@ -19,6 +19,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* Japanese
 	* [Sanskrit](languages.md#sanskrit)
 * [Marketing](marketing.md)
+	* [Content Marketing](marketing.md#content-marketing)
 	* [Copywriting](marketing.md#copywriting)
 	* Email marketing
 	* Facebook Ads
