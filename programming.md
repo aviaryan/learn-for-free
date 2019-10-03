@@ -59,3 +59,11 @@ You Don't Know JS is a free series of books for learning JavaScript at a deep le
 Website - https://github.com/getify/You-Dont-Know-JS
 
 [![you don't know js github](https://user-images.githubusercontent.com/4047597/66125034-93c59280-e603-11e9-9821-e7e01c360072.png)](https://github.com/getify/You-Dont-Know-JS)
+
+### JavaScript.Info
+
+JavaScript.info is a web tutorial where you can find articles related to JavaScript from noob to advanced.
+
+Website: https://javascript.info
+
+[![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
