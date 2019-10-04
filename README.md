@@ -13,6 +13,9 @@ This project aims to contain free learning resources for all topics you can thin
 	* Investing
 	* Personal Finance
 	* [Trading](finance.md#trading)
+* [Graphics](graphics.md)
+	* 2D Graphics
+	* [3D Graphics](graphics.md#3d-graphics)
 * [Languages](languages.md)
 	* [Multi-language resources](languages.md#multi)
 	* English
