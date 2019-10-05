@@ -1,6 +1,6 @@
 # Marketing
 
-This files contains resources for marketing.
+This files contains resources for marketing. The [Digital Marketing](#digital-marketing) section contains courses that are too general to be included in specific sections like Email Marketing or Facebook Ads.
 
 * [Content Marketing](#content-marketing)
 * [Copywriting](#copywriting)
@@ -35,12 +35,12 @@ Website - https://kopywritingkourse.com/free-copywriting-course/
 
 ## Digital Marketing
 
-Digital marketing is the marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising, and any other digital medium.
+Digital marketing is the marketing of products or services using digital technologies. It is the umbrella term for email marketing, SEO and other marketing concepts based in the digital world.
 
 ### Fundamentals of Digital Marketing
 
-A course designed by Google to help you understand the basic concepts of Digital Marketing and how to use it to grow your business exponentially. This course also includes a free certification which you'll get after completing all the lessons and answering all the questions at the end of each lessons with a final exam at the end.
+A course designed by Google to help you understand the basic concepts of Digital Marketing and how to use it to grow your business exponentially. It also comes with a free certification.
 
-Website- https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
+Website - https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
 
 [![Fundamentals of Digital Marketing](https://user-images.githubusercontent.com/28767301/66247545-55cb8a00-e73b-11e9-9768-bc4ee3f2379a.png)](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
