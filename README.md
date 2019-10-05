@@ -24,6 +24,7 @@ This project aims to contain free learning resources for all topics you can thin
 * [Marketing](marketing.md)
 	* [Content Marketing](marketing.md#content-marketing)
 	* [Copywriting](marketing.md#copywriting)
+	* [Digital Marketing](marketing.md#digital-marketing)
 	* Email marketing
 	* Facebook Ads
 * [Programming](programming.md)
