@@ -8,6 +8,12 @@ This project aims to contain free learning resources for all topics you can thin
 
 ## Topics
 
+* [Data Science](data_science.md)
+	* Classical Machine Learning
+	* Computer Vision
+	* Deep Learning
+	* Natural Language Processing
+	* Reinforcement Learning
 * [Finance](finance.md)
 	* [Economics](finance.md#economics)
 	* Investing
@@ -37,12 +43,6 @@ This project aims to contain free learning resources for all topics you can thin
 * [Security](security.md)
 	* Cryptography
 	* [Ethical Hacking](security.md#ethical-hacking)
-* [Data Science](data_science.md)
-	* Classical Machine Learning
-	* Computer Vision
-	* Deep Learning
-	* Natural Language Processing
-	* Reinforcement Learning
 
 ------
 
