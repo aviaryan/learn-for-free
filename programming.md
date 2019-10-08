@@ -49,6 +49,14 @@ Website - https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 [![html and CSS course by udacity](https://user-images.githubusercontent.com/4047597/66047080-c3619580-e544-11e9-8d37-d478e778ed98.png)](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 
+### Interneting is Hard
+
+HTML & CSS seems hard (But it doesn’t have to be). This is a friendly web development tutorial for complete beginners.
+
+Website - <a href="https://internetingishard.com/html-and-css/">https://internetingishard.com/html-and-css/</a>
+
+![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)
+
 
 ## JavaScript
 
