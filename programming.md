@@ -14,7 +14,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 
 **General Purpose**
 
-* Java
+* [Java](#java)
 * [JavaScript](#javascript)
 * Python
 * Ruby
@@ -48,6 +48,17 @@ Learn HTML and CSS from a free, premium video course by Udacity.
 Website - https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 [![html and CSS course by udacity](https://user-images.githubusercontent.com/4047597/66047080-c3619580-e544-11e9-8d37-d478e778ed98.png)](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+
+
+## Java
+
+### Java for Complete Beginners - John Purcell on Udemy
+
+This is the most popular free Java course on Udemy. If you are a beginner in Java, go for this. It offers a thorough introduction to every Java concept and is taught in digestible sessions.
+
+Website - https://www.udemy.com/course/java-tutorial/
+
+![Java for Complete Beginners - John Purcell](https://user-images.githubusercontent.com/51238282/66408079-e8a24800-ea0b-11e9-916e-658dc4848039.png)
 
 
 ## JavaScript
