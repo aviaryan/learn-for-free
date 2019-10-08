@@ -3,7 +3,7 @@ This file contains resources on
 * [System Design](#systemDesign)
 * [Load Balancing](#loadBalancing)
 
-## SystemDesign
+## System Design
 
 ### Learn how to design large scale systems
 
@@ -11,7 +11,7 @@ This repo contains most of the details and blogs related to System design kindly
 
 Website - https://github.com/donnemartin/system-design-primer
 
-## LoadBalancing
+## Load Balancing
 
 ### Learn how to balance the load in the systems
 
