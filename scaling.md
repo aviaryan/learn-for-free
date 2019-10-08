@@ -1,4 +1,4 @@
-This file contains resources to learn all things finance and economics.
+This file contains resources on
 
 * [System Design](#systemDesign)
 * [Load Balancing](#loadBalancing)
