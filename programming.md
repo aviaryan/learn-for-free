@@ -16,7 +16,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 
 * Java
 * [JavaScript](#javascript)
-* [Django](#Django)
+* [Django](#django)
 * Python
 * Ruby
 
@@ -54,9 +54,9 @@ Website - https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 HTML & CSS seems hard (But it doesn’t have to be). This is a friendly web development tutorial for complete beginners.
 
-Website - <a href="https://internetingishard.com/html-and-css/">https://internetingishard.com/html-and-css/</a>
+Website - https://internetingishard.com/html-and-css/
 
-![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)
+[![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
 
 ## JavaScript
@@ -83,14 +83,40 @@ Website: https://javascript.info
 
 Once you've finished the tutorial, you will have a small working web application: your own blog. They also show you how to put it online, so others can see your work!
 
-Website: <a href="https://tutorial.djangogirls.org/en/">https://tutorial.djangogirls.org/en/</a>
+Website - https://tutorial.djangogirls.org/en/
 
-![django-girls-tutorial](https://user-images.githubusercontent.com/42115530/66375082-1ebed800-e9ca-11e9-81f3-e18e84cb4600.PNG)
+[![django-girls-tutorial](https://user-images.githubusercontent.com/42115530/66375082-1ebed800-e9ca-11e9-81f3-e18e84cb4600.PNG)](https://tutorial.djangogirls.org/en/)
 
-### Top Tutorials To Learn Django Framework For Python Beginners(Quick Code)
+### Try Django 1.9 | Build a Blog and Learn Python's #1 Library
 
-If Python is the future behind underlying technology, Django will be it’s close cousin and if you love Python, Django will soon become your friend.
+A free course on Udemy by the Coding Entrepreneurs that teaches how to build a Django Blog, learn Markdown into Django Integration and Django Rest Framework for RESTful API Design.
 
-Website: <a href="https://medium.com/quick-code/top-tutorials-to-learn-django-framework-for-python-beginners-fe1a9e315aa9">https://medium.com/quick-code/top-tutorials-to-learn-django-framework-for-python-beginners-fe1a9e315aa9</a>
+Website - https://www.udemy.com/course/try-django/
 
-![quick](https://user-images.githubusercontent.com/42115530/66375343-c89e6480-e9ca-11e9-9a40-038741fc1917.PNG)
+[![Try Django 1.9 | Build a Blog and Learn Python's #1 Library](https://user-images.githubusercontent.com/42115530/66418662-3163fc00-ea20-11e9-9638-1b34723c7cd7.PNG)](https://www.udemy.com/course/try-django/)
+
+### Django Tutorial- Tutorialspoint
+
+This tutorial is designed for developers who want to learn how to develop quality web applications using the smart techniques and tools offered by Django.
+
+Website - https://www.tutorialspoint.com/django/
+
+[![Django Tutorial- Tutorialspoint](https://user-images.githubusercontent.com/42115530/66418912-ba7b3300-ea20-11e9-8fc5-1ef985373d45.PNG)](https://www.tutorialspoint.com/django/)
+
+### Django Tutorials - thenewboston
+
+Official tutorials for thenewboston Django Tutorials for Beginners series
+
+Website - https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+
+[![thenewboston-django-tutorials](https://user-images.githubusercontent.com/42115530/66419039-f6ae9380-ea20-11e9-81c9-5b720b653805.PNG)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+
+### Django Tutorials - Pretty Printed
+
+Learn Django in this video by following along as I show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django. 
+
+Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf
+
+[![retty](https://user-images.githubusercontent.com/42115530/66419024-f0201c00-ea20-11e9-9aef-0e7c8fc55820.PNG)](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+
+
