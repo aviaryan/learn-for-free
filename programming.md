@@ -16,6 +16,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 
 * Java
 * [JavaScript](#javascript)
+* [Django](#Django)
 * Python
 * Ruby
 
@@ -75,3 +76,21 @@ JavaScript.info is a web tutorial where you can find articles related to JavaScr
 Website: https://javascript.info
 
 [![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
+
+## Django
+
+### Django Girls Tutorials
+
+Once you've finished the tutorial, you will have a small working web application: your own blog. They also show you how to put it online, so others can see your work!
+
+Website: <a href="https://tutorial.djangogirls.org/en/">https://tutorial.djangogirls.org/en/</a>
+
+![django-girls-tutorial](https://user-images.githubusercontent.com/42115530/66375082-1ebed800-e9ca-11e9-81f3-e18e84cb4600.PNG)
+
+### Top Tutorials To Learn Django Framework For Python Beginners(Quick Code)
+
+If Python is the future behind underlying technology, Django will be it’s close cousin and if you love Python, Django will soon become your friend.
+
+Website: <a href="https://medium.com/quick-code/top-tutorials-to-learn-django-framework-for-python-beginners-fe1a9e315aa9">https://medium.com/quick-code/top-tutorials-to-learn-django-framework-for-python-beginners-fe1a9e315aa9</a>
+
+![quick](https://user-images.githubusercontent.com/42115530/66375343-c89e6480-e9ca-11e9-9a40-038741fc1917.PNG)
