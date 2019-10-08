@@ -58,7 +58,7 @@ This is the most popular free Java course on Udemy. If you are a beginner in Jav
 
 Website - https://www.udemy.com/course/java-tutorial/
 
-![Java for Complete Beginners - John Purcell](https://user-images.githubusercontent.com/51238282/66408079-e8a24800-ea0b-11e9-916e-658dc4848039.png)](https://www.udemy.com/course/java-tutorial/)
+[![Java for Complete Beginners - John Purcell](https://user-images.githubusercontent.com/51238282/66408079-e8a24800-ea0b-11e9-916e-658dc4848039.png)](https://www.udemy.com/course/java-tutorial/)
 
 
 ## JavaScript
