@@ -11,7 +11,7 @@ This project aims to contain free learning resources for all topics you can thin
 * [Data Science](data_science.md)
 	* Classical Machine Learning
 	* Computer Vision
-	* [Deep Learning](data_science.md#deep_learning)
+	* [Deep Learning](data_science.md#deep-learning)
 	* Natural Language Processing
 	* Reinforcement Learning
 * [Finance](finance.md)
