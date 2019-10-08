@@ -113,10 +113,10 @@ Website - https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1
 
 ### Django Tutorials - Pretty Printed
 
-Learn Django in this video by following along as I show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django. 
+Learn Django in these videos by following along as the instructor show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django. 
 
 Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf
 
-[![retty](https://user-images.githubusercontent.com/42115530/66419024-f0201c00-ea20-11e9-9aef-0e7c8fc55820.PNG)](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+[!Pretty-Printed-django-tutorials](https://user-images.githubusercontent.com/42115530/66419024-f0201c00-ea20-11e9-9aef-0e7c8fc55820.PNG)](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 
 
