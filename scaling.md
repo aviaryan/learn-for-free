@@ -3,7 +3,7 @@ This file contains resources to learn all things finance and economics.
 * [System Design](#systemDesign)
 * [Load Balancing](#loadBalancing)
 
-## systemDesign
+## SystemDesign
 
 ### Learn how to design large scale systems
 
