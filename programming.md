@@ -18,7 +18,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [JavaScript](#javascript)
 * [Python](#python)
 * Ruby
-* [C++](#c++)
+* [C++](#c)
 
 
 ## Android Development
