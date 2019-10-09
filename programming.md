@@ -80,12 +80,12 @@ Website: https://javascript.info
 [![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
 
 
-
 ## Python
 
 ### Python for Beginners by Mosh Hamedani 
 
 This is easy to grasp highly rated Python tutorial on Youtube. All concepts are explained in crystal clear manner suitable for beginners. In later half, it also dives into 3 practical projects which helps in assimilating all the learning throughout.
 
-Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc 
-[![Python for Beginners by Mosh Hamedani]( https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)]( https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+[![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
