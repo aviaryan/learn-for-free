@@ -38,7 +38,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [Web Development](programming.md#web-development)
 	* [Java](programming.md#java)
 	* [JavaScript](programming.md#javascript)
-	* Python
+	* [Python](programming.md#python)
 	* Ruby
 * [Security](security.md)
 	* Cryptography
