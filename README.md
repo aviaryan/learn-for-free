@@ -36,11 +36,11 @@ This project aims to contain free learning resources for all topics you can thin
 * [Programming](programming.md)
 	* [Android Development](programming.md#android-development)
 	* [Web Development](programming.md#web-development)
+	* [C++](programming.md#cpp)
 	* [Java](programming.md#java)
 	* [JavaScript](programming.md#javascript)
 	* [Python](programming.md#python)
 	* Ruby
-	* [C++](programming.md#c)
 * [Security](security.md)
 	* Cryptography
 	* [Ethical Hacking](security.md#ethical-hacking)
