@@ -8,6 +8,12 @@ This project aims to contain free learning resources for all topics you can thin
 
 ## Topics
 
+* [Data Science](data_science.md)
+	* Classical Machine Learning
+	* Computer Vision
+	* [Deep Learning](data_science.md#deep-learning)
+	* Natural Language Processing
+	* Reinforcement Learning
 * [Finance](finance.md)
 	* [Economics](finance.md#economics)
 	* Investing
@@ -30,9 +36,9 @@ This project aims to contain free learning resources for all topics you can thin
 * [Programming](programming.md)
 	* [Android Development](programming.md#android-development)
 	* [Web Development](programming.md#web-development)
-	* Java
+	* [Java](programming.md#java)
 	* [JavaScript](programming.md#javascript)
-	* Python
+	* [Python](programming.md#python)
 	* Ruby
 * [Security](security.md)
 	* Cryptography
