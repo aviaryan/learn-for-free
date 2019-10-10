@@ -112,4 +112,9 @@ Flutter is an open-source UI software development kit created by Google. It is u
 Website - https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos
 
 [![Flutter Tutorials free by a Flutter GDEi](https://miro.medium.com/max/3200/1*mMJ3IvaAuMAmqjtyistCog.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc))
-
+ 
+ Also there is a fine resource on Github.
+ 
+ ## Awesome Playlist of Flutter
+ 
+ website - https://github.com/PoojaB26/AwesomeFlutterPlaylist
