@@ -14,6 +14,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 
 **General Purpose**
 
+* [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
@@ -48,6 +49,18 @@ Learn HTML and CSS from a free, premium video course by Udacity.
 Website - https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 [![html and CSS course by udacity](https://user-images.githubusercontent.com/4047597/66047080-c3619580-e544-11e9-8d37-d478e778ed98.png)](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+
+
+<a name="cpp"></a>
+## C++
+
+### C++ Programming Tutorial by Caleb Curry 
+
+This youtube tutorial by Caleb Curry is everything you need to master C++. It starts with the super basics and works your way to intermediate topics.
+
+Website - https://www.youtube.com/watch?v=_bYFu9mBnr4
+
+[![C++ Programming Tutorial by Caleb Curry](https://user-images.githubusercontent.com/51238282/66482450-9838f200-eac0-11e9-98e5-ee0ee328d233.png)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 
 
 ## Java
