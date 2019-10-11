@@ -15,6 +15,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 **General Purpose**
 
 * [C++](#cpp)
+* [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
@@ -61,6 +62,16 @@ This youtube tutorial by Caleb Curry is everything you need to master C++. It st
 Website - https://www.youtube.com/watch?v=_bYFu9mBnr4
 
 [![C++ Programming Tutorial by Caleb Curry](https://user-images.githubusercontent.com/51238282/66482450-9838f200-eac0-11e9-98e5-ee0ee328d233.png)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
+
+## Git
+
+### Git Tutorial For Beginners by Simplilearn
+
+After going through innumerable Git tutorials on net and struggling to understand Git commands, here is one tutorial that covers almost everything you require to grasp Git and become fully confident.
+
+Website - https://www.youtube.com/watch?v=AzfVDEBn9hw
+
+[![Git Tutorial For Beginners by Simplilearn](https://user-images.githubusercontent.com/51238282/66634960-d141a580-ec2b-11e9-9088-b96f077c8f72.png)](https://www.youtube.com/watch?v=AzfVDEBn9hw)
 
 
 ## Java
