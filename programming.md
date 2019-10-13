@@ -18,6 +18,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Django](#django)
 * [Python](#python)
 * Ruby
 
@@ -50,6 +51,14 @@ Learn HTML and CSS from a free, premium video course by Udacity.
 Website - https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 [![html and CSS course by udacity](https://user-images.githubusercontent.com/4047597/66047080-c3619580-e544-11e9-8d37-d478e778ed98.png)](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+
+### Interneting is Hard
+
+HTML & CSS seems hard (But it doesn’t have to be). This is a friendly web development tutorial for complete beginners.
+
+Website - https://internetingishard.com/html-and-css/
+
+[![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
 
 <a name="cpp"></a>
@@ -104,6 +113,53 @@ Website: https://javascript.info
 [![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
 
 
+## Django
+
+### Django Girls Tutorials
+
+Once you've finished the tutorial, you will have a small working web application: your own blog. They also show you how to put it online, so others can see your work!
+
+Website - https://tutorial.djangogirls.org/en/
+
+[![django-girls-tutorial](https://user-images.githubusercontent.com/42115530/66375082-1ebed800-e9ca-11e9-81f3-e18e84cb4600.PNG)](https://tutorial.djangogirls.org/en/)
+
+
+### Try Django 1.9 | Build a Blog and Learn Python's #1 Library
+
+A free course on Udemy by the Coding Entrepreneurs that teaches how to build a Django Blog, learn Markdown into Django Integration and Django Rest Framework for RESTful API Design.
+
+Website - https://www.udemy.com/course/try-django/
+
+[![Try Django 1.9 | Build a Blog and Learn Python's #1 Library](https://user-images.githubusercontent.com/42115530/66418662-3163fc00-ea20-11e9-9638-1b34723c7cd7.PNG)](https://www.udemy.com/course/try-django/)
+
+
+### Django Tutorial- Tutorialspoint
+
+This tutorial is designed for developers who want to learn how to develop quality web applications using the smart techniques and tools offered by Django.
+
+Website - https://www.tutorialspoint.com/django/
+
+[![Django Tutorial- Tutorialspoint](https://user-images.githubusercontent.com/42115530/66418912-ba7b3300-ea20-11e9-8fc5-1ef985373d45.PNG)](https://www.tutorialspoint.com/django/)
+
+
+### Django Tutorials - thenewboston
+
+Official tutorials for thenewboston Django Tutorials for Beginners series
+
+Website - https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+
+[![thenewboston-django-tutorials](https://user-images.githubusercontent.com/42115530/66419039-f6ae9380-ea20-11e9-81c9-5b720b653805.PNG)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+
+
+### Django Tutorials - Pretty Printed
+
+Learn Django in these videos by following along as the instructor show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django. 
+
+Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf
+
+[![Pretty-Printed-django-tutorials](https://user-images.githubusercontent.com/42115530/66419024-f0201c00-ea20-11e9-9aef-0e7c8fc55820.PNG)](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+
+
 ## Python
 
 ### Python for Beginners by Mosh Hamedani 
@@ -113,3 +169,4 @@ This is easy to grasp highly rated Python tutorial on Youtube. All concepts are 
 Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 [![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
