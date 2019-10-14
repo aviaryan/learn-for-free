@@ -40,6 +40,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [Django](programming.md#django)
 	* [Git](programming.md#git)
 	* [Java](programming.md#java)
+	* [JUnit](programming.md#junit)
 	* [JavaScript](programming.md#javascript)
 	* [Python](programming.md#python)
 	* Ruby
