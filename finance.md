@@ -3,7 +3,7 @@
 This file contains resources to learn all things finance and economics.
 
 * [Economics](#economics)
-* Investing
+* [Investing](#investing)
 * Personal Finance
 * [Trading](#trading)
 
@@ -16,6 +16,16 @@ A primer on how the world economics works. This 30 minute video can be more insi
 Website - https://www.youtube.com/watch?v=PHe0bXAIuk0
 
 [![economics by ray dalio](https://user-images.githubusercontent.com/4047597/66024983-fd19a880-e512-11e9-8440-07520405581a.png)](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+
+## Investing
+
+### Learn Value Investing like Warren Buffet by Sokhi Team (Mr. Chanpreet Singh)
+
+This is a beginner friendly Stock Investing strategy by Sokhi Team (Mr. Chanpreet Singh) which helps a retail investor to apply basic investing strategy to pick fundamentally strong stock for investing purpose. SEBI Registration disclosure - Investment Adviser Registration No : INA300005090.
+
+Website - https://www.youtube.com/watch?v=iOZMv7Pfp10
+
+[![Value Investing like Warren Buffet by Sokhi Team (Mr. Chanpreet Singh)](https://user-images.githubusercontent.com/1084664/66736646-5f659800-ee87-11e9-9538-95b8a5b637ea.png)](https://www.youtube.com/watch?v=iOZMv7Pfp10)
 
 
 ## Trading
