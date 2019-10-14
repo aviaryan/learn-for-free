@@ -48,10 +48,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [Load balancing](scaling.md#load-balancing)
 * [Security](security.md)
 	* Cryptography
-	* [Ethical Hacking](security.md#ethical-hacking)
-* [Scaling](scaling.md)
-	* [SystemDesign](scaling.md#system-design)
-	* [Load balancing](scaling.md#load-balancing)
+	* [Ethical Hacking](security.md#ethical-hacking))
 ------
 
 ## Contributing
