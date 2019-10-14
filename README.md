@@ -16,7 +16,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* Reinforcement Learning
 * [Finance](finance.md)
 	* [Economics](finance.md#economics)
-	* Investing
+	* [Investing](finance.md#investing)
 	* Personal Finance
 	* [Trading](finance.md#trading)
 * [Graphics](graphics.md)
