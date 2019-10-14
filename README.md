@@ -43,6 +43,9 @@ This project aims to contain free learning resources for all topics you can thin
 	* [JavaScript](programming.md#javascript)
 	* [Python](programming.md#python)
 	* Ruby
+* [Scaling](scaling.md)
+	* [SystemDesign](scaling.md#system-design)
+	* [Load balancing](scaling.md#load-balancing)
 * [Security](security.md)
 	* Cryptography
 	* [Ethical Hacking](security.md#ethical-hacking)
