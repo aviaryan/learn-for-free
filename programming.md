@@ -18,6 +18,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [Django](#django)
 * [Git](#git)
 * [Java](#java)
+* [JUnit](#junit)
 * [JavaScript](#javascript)
 * [Python](#python)
 * Ruby
@@ -136,6 +137,16 @@ This is the most popular free Java course on Udemy. If you are a beginner in Jav
 Website - https://www.udemy.com/course/java-tutorial/
 
 [![Java for Complete Beginners - John Purcell](https://user-images.githubusercontent.com/51238282/66408079-e8a24800-ea0b-11e9-916e-658dc4848039.png)](https://www.udemy.com/course/java-tutorial/)
+
+## JUnit
+
+### JUnit5 Basics by Java Brains
+
+JUnit is defacto standard for unit-testing in the Java ecosystem. The JUnit 5 version contains a number of innovations and support new features in Java 8 and above, as well as enabling many different styles of testing. Below playlist is everything a begginer needs to get started!
+
+Website - https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o
+
+[![JUnit5 Basics by Java Brains](https://user-images.githubusercontent.com/1084664/66758571-24318c00-eebc-11e9-8457-eea82dc64e3f.png)](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
 
 
 ## JavaScript
