@@ -35,3 +35,13 @@ Learn competent trading strategies from a veteran of crypto twitter. He also pro
 Website - https://www.youtube.com/channel/UCH13wWEgjCwITVnWvtqB5cA/videos
 
 [![trading room's youtube channel](https://user-images.githubusercontent.com/4047597/66118879-13983080-e5f5-11e9-8491-8148903f9e66.png)](https://www.youtube.com/channel/UCH13wWEgjCwITVnWvtqB5cA/videos)
+
+
+### Professional Stock Trading Course by Adam Khoo
+
+This is a beginner friendly Stock Trading Course by Adam Khoo designed to reveal all the tools and strategies to trade stocks confidently and profitably.
+
+Website - https://www.youtube.com/watch?v=slBxM4J3BEA
+
+[![Professional Stock Trading Course by Adam Khoo](https://user-images.githubusercontent.com/1084664/66735649-94242000-ee84-11e9-81cf-9316609c4ea6.png)](https://www.youtube.com/watch?v=slBxM4J3BEA)
+
