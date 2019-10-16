@@ -42,6 +42,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [Java](programming.md#java)
 	* [JUnit](programming.md#junit)
 	* [JavaScript](programming.md#javascript)
+	* [NodeJS](programming.md#nodejs)
 	* [Python](programming.md#python)
 	* Ruby
 * [Security](security.md)

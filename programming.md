@@ -20,6 +20,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [Java](#java)
 * [JUnit](#junit)
 * [JavaScript](#javascript)
+* [NodeJS](#nodejs)
 * [Python](#python)
 * Ruby
 
@@ -166,6 +167,17 @@ JavaScript.info is a web tutorial where you can find articles related to JavaScr
 Website: https://javascript.info
 
 [![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
+
+
+## NodeJS
+
+### Node.js Crash Course by Traversy Media
+
+This course covers all Node.js fundamentals and teaches the important modules like Path, URL, FS, Events. Thereafter it shows how to create an HTTP server from scratch without Express and deploy everything to Heroku. Its very good for begginers to get a hands-on feel quickly.
+
+Website - https://www.youtube.com/watch?v=fBNz5xF-Kx4
+
+[![Node.js Crash Course by Traversy Media](https://user-images.githubusercontent.com/1084664/66899370-74256580-f018-11e9-9f91-4934446daa97.png)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
 
 ## Python
