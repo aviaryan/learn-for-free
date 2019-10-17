@@ -174,7 +174,7 @@ Freecodecamp is learning community for JS developers.It has nice curriculumn for
 
 Website - https://www.freecodecamp.org/learn
 
-[![FreeCodeCamp_logo](https://user-images.githubusercontent.com/26074662/67018188-7cfd6080-f118-11e9-8e37-f71d2af174f8.png)]
+![FreeCodeCamp](https://user-images.githubusercontent.com/26074662/67018188-7cfd6080-f118-11e9-8e37-f71d2af174f8.png)
 (https://en.wikipedia.org/wiki/FreeCodeCamp)
 
 ## NodeJS
