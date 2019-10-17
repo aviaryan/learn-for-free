@@ -13,7 +13,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* Computer Vision
 	* [Deep Learning](data_science.md#deep-learning)
 	* Natural Language Processing
-	* Reinforcement Learning
+	* [Reinforcement Learning](data_science.md#reinforcement-learning)
 * [Finance](finance.md)
 	* [Economics](finance.md#economics)
 	* [Investing](finance.md#investing)
