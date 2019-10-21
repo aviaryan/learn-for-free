@@ -9,6 +9,15 @@ This file contains resources to learn about Data Science and its sub fields.
 * [Reinforcement Learning](#reinforcement-learning)
 
 
+### Data Science Crash Course By Kaggle
+
+With this free data science course by Kaggle you will learn the most important language for data science, learn core ideas in machine learning, build your first model, learn data manipulation skills with Pandas, and use TensorFlow for machine learning. 
+
+Website - https://www.kaggle.com/learn/overview
+
+[![Faster data Science education by Kaggle](https://user-images.githubusercontent.com/4047597/67204350-f653c680-f42a-11e9-9c74-b5cc4d7dc28b.png)](https://www.kaggle.com/learn/overview)
+
+
 ## Classical Machine Learning
 
 ### Machine Learning Crash Course By Google
