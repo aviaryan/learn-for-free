@@ -10,7 +10,6 @@ This project aims to contain free learning resources for all topics you can thin
 
 * [Data Science](data_science.md)
 	* [Classical Machine Learning](data_science.md#classical-machine-learning)
-	* [Data Science Crash Course by Kaggle](data_science.md#Data-Science-Crash-Course-By-Kaggle)
 	* Computer Vision
 	* [Deep Learning](data_science.md#deep-learning)
 	* Natural Language Processing
