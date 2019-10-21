@@ -1,29 +1,29 @@
 # Programming And Software Development
 
-This file contains resources to learn programming and software development. This file is divided into 2 parts - Goal-Oriented and General Purpose. 
+This file contains resources to learn programming and software development. This file is divided into 2 parts - Goal-Oriented and General Purpose.
 
-1. Goal-Oriented resources teach you to deliver an output like making a website or an app. 
+1. Goal-Oriented resources teach you to deliver an output like making a website or an app.
 2. General Purpose resources teach you a particular language like Python or JavaScript.
 
 A Goal-Oriented listing has higher priority so if a resource falls in both general purpose and goal-oriented, it automatically goes in goal-oriented and is not duplicated.
 
 **Goal-Oriented**
 
-* [Android Development](#android-development)
-* [Web Development](#web-development)
+- [Android Development](#android-development)
+- [Web Development](#web-development)
+- [Unity 3D](#unity-3d)
 
 **General Purpose**
 
-* [C++](#cpp)
-* [Django](#django)
-* [Git](#git)
-* [Java](#java)
-* [JUnit](#junit)
-* [JavaScript](#javascript)
-* [NodeJS](#nodejs)
-* [Python](#python)
-* Ruby
-
+- [C++](#cpp)
+- [Django](#django)
+- [Git](#git)
+- [Java](#java)
+- [JUnit](#junit)
+- [JavaScript](#javascript)
+- [NodeJS](#nodejs)
+- [Python](#python)
+- Ruby
 
 ## Android Development
 
@@ -34,7 +34,6 @@ Lars Vogel's article on Android Programming in Java are an industry standard. Hi
 Website - https://www.vogella.com/tutorials/android.html
 
 [![vogella android resources screenshot](https://user-images.githubusercontent.com/4047597/66122279-ed768e80-e5fc-11e9-9beb-e57d51e04b33.png)](https://www.vogella.com/tutorials/android.html)
-
 
 ## Web Development
 
@@ -48,7 +47,7 @@ Website - https://learn.freecodecamp.org/
 
 ### Intro to HTML and CSS by Udacity
 
-Learn HTML and CSS from a free, premium video course by Udacity. 
+Learn HTML and CSS from a free, premium video course by Udacity.
 
 Website - https://www.udacity.com/course/intro-to-html-and-css--ud001
 
@@ -62,18 +61,17 @@ Website - https://internetingishard.com/html-and-css/
 
 [![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
-
 <a name="cpp"></a>
+
 ## C++
 
-### C++ Programming Tutorial by Caleb Curry 
+### C++ Programming Tutorial by Caleb Curry
 
 This youtube tutorial by Caleb Curry is everything you need to master C++. It starts with the super basics and works your way to intermediate topics.
 
 Website - https://www.youtube.com/watch?v=_bYFu9mBnr4
 
 [![C++ Programming Tutorial by Caleb Curry](https://user-images.githubusercontent.com/51238282/66482450-9838f200-eac0-11e9-98e5-ee0ee328d233.png)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
-
 
 ## Django
 
@@ -111,12 +109,21 @@ Website - https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1
 
 ### Django Tutorials - Pretty Printed
 
-Learn Django in these videos by following along as the instructor show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django. 
+Learn Django in these videos by following along as the instructor show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django.
 
 Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf
 
 [![Pretty-Printed-django-tutorials](https://user-images.githubusercontent.com/42115530/66419024-f0201c00-ea20-11e9-9aef-0e7c8fc55820.PNG)](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 
+## Unity 3D
+
+### Unity's Beginner Scripting videos
+
+Learn beginner Unity scripting by this playlist from Unity itself. These tutorial will teach you basics of scripting in unity.
+
+Website - https://learn.unity.com/project/beginner-gameplay-scripting
+
+[![unity-Scripting-videos-page-screenshot](https://user-images.githubusercontent.com/19239291/67188485-0d35f100-f40a-11e9-9070-272d7f2e61a7.png)](https://learn.unity.com/project/beginner-gameplay-scripting)
 
 ## Git
 
@@ -127,7 +134,6 @@ After going through innumerable Git tutorials on net and struggling to understan
 Website - https://www.youtube.com/watch?v=AzfVDEBn9hw
 
 [![Git Tutorial For Beginners by Simplilearn](https://user-images.githubusercontent.com/51238282/66634960-d141a580-ec2b-11e9-9088-b96f077c8f72.png)](https://www.youtube.com/watch?v=AzfVDEBn9hw)
-
 
 ## Java
 
@@ -149,7 +155,6 @@ Website - https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa
 
 [![JUnit5 Basics by Java Brains](https://user-images.githubusercontent.com/1084664/66758571-24318c00-eebc-11e9-8457-eea82dc64e3f.png)](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
 
-
 ## JavaScript
 
 ### You Don't Know JS
@@ -168,7 +173,6 @@ Website: https://javascript.info
 
 [![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
 
-
 ## NodeJS
 
 ### Node.js Crash Course by Traversy Media
@@ -179,10 +183,9 @@ Website - https://www.youtube.com/watch?v=fBNz5xF-Kx4
 
 [![Node.js Crash Course by Traversy Media](https://user-images.githubusercontent.com/1084664/66899370-74256580-f018-11e9-9f91-4934446daa97.png)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
-
 ## Python
 
-### Python for Beginners by Mosh Hamedani 
+### Python for Beginners by Mosh Hamedani
 
 This is easy to grasp highly rated Python tutorial on Youtube. All concepts are explained in crystal clear manner suitable for beginners. In later half, it also dives into 3 practical projects which helps in assimilating all the learning throughout.
 
