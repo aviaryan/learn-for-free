@@ -6,9 +6,9 @@
 	3. Submit the PR.
 -->
 
-{Computer Vision - Convolutional Neural Networks for Visual Recognition.}
+{Write down the list of resources or topics you have added.}
 
-{This is a course provided by Stanford.edu, In this tutorial students can get complete information of the course (Convolutional Neural Networks for Visual Recognition) along with notes, code snippets and a complete youtube playlist of the course.}
+{If you have added a resource, please explain your experience with the resource in context of why you have added it.}
 
 
 --------
@@ -17,7 +17,7 @@
 
 Failure to properly do so will just result in the pull request being closed and everyone's time wasted.
 
-- [x] I have read the [Contribution guidelines](https://github.com/aviaryan/learn-for-free/blob/master/CONTRIBUTING.md) and made sure my pull request follows it, specifically the part about promotions and markdown format.
-- [x] Any resources I am adding in this PR have been used by me and I can personally vouch for their quality.
-- [x] This pull request has a descriptive title. For example, `Add [Resource Name]` or `Add [Topic Name]`, not `Added new entries` or `update`.
-- [x] I have double checked that I have only updated the minimum files that are required by this PR.
+- [ ] I have read the [Contribution guidelines](https://github.com/aviaryan/learn-for-free/blob/master/CONTRIBUTING.md) and made sure my pull request follows it, specifically the part about promotions and markdown format.
+- [ ] Any resources I am adding in this PR have been used by me and I can personally vouch for their quality.
+- [ ] This pull request has a descriptive title. For example, `Add [Resource Name]` or `Add [Topic Name]`, not `Added new entries` or `update`.
+- [ ] I have double checked that I have only updated the minimum files that are required by this PR.
