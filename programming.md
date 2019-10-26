@@ -17,7 +17,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * Java
 * [JavaScript](#javascript)
 * Python
-* Ruby
+* [Ruby](#ruby)
 
 
 ## Android Development
@@ -59,3 +59,15 @@ You Don't Know JS is a free series of books for learning JavaScript at a deep le
 Website - https://github.com/getify/You-Dont-Know-JS
 
 [![you don't know js github](https://user-images.githubusercontent.com/4047597/66125034-93c59280-e603-11e9-9821-e7e01c360072.png)](https://github.com/getify/You-Dont-Know-JS)
+
+
+## Ruby
+
+### Ruby Koans
+
+Learn Ruby using TDD (Test Driven Development). This resource is suitable for beginner or intermediate level developers.
+
+Website - http://rubykoans.com/
+
+[![Ruby Koans](https://user-images.githubusercontent.com/18033231/67616086-25cf4e00-f7f2-11e9-9dd2-557a2ac9c80b.png)](http://rubykoans.com/)
+
