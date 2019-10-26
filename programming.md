@@ -9,20 +9,20 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 
 **Goal-Oriented**
 
-- [Android Development](#android-development)
-- [Web Development](#web-development)
+* [Android Development](#android-development)
+* [Web Development](#web-development)
 
 **General Purpose**
 
-- [C++](#cpp)
-- [Django](#django)
-- [Git](#git)
-- [Java](#java)
-- [JUnit](#junit)
-- [JavaScript](#javascript)
-- [NodeJS](#nodejs)
-- [Python](#python)
-- [Ruby](#ruby)
+* [C++](#cpp)
+* [Django](#django)
+* [Git](#git)
+* [Java](#java)
+* [JUnit](#junit)
+* [JavaScript](#javascript)
+* [NodeJS](#nodejs)
+* [Python](#python)
+* [Ruby](#ruby)
 
 ## Android Development
 
