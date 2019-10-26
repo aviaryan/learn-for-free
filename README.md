@@ -4,33 +4,50 @@
 
 Why pay for a degree or a course when you can learn on the Internet for free? 
 
-This project aims to contain free learning resources for all topics you can think of. 
-
-Please contribute to help take this project forward. 🙏🏾
+This project aims to contain free learning resources for all topics you can think of [WIP]. 
 
 ## Topics
 
+* [Data Science](data_science.md)
+	* [Classical Machine Learning](data_science.md#classical-machine-learning)
+	* Computer Vision
+	* [Deep Learning](data_science.md#deep-learning)
+	* Natural Language Processing
+	* [Reinforcement Learning](data_science.md#reinforcement-learning)
 * [Finance](finance.md)
 	* [Economics](finance.md#economics)
-	* Investing
+	* [Investing](finance.md#investing)
 	* Personal Finance
 	* [Trading](finance.md#trading)
+* [Graphics](graphics.md)
+	* 2D Graphics
+	* [3D Graphics](graphics.md#3d-graphics)
 * [Languages](languages.md)
 	* [Multi-language resources](languages.md#multi)
 	* English
 	* Japanese
 	* [Sanskrit](languages.md#sanskrit)
 * [Marketing](marketing.md)
+	* [Content Marketing](marketing.md#content-marketing)
 	* [Copywriting](marketing.md#copywriting)
+	* [Digital Marketing](marketing.md#digital-marketing)
 	* Email marketing
 	* Facebook Ads
 * [Programming](programming.md)
 	* [Android Development](programming.md#android-development)
 	* [Web Development](programming.md#web-development)
-	* Java
+	* [C++](programming.md#cpp)
+	* [Django](programming.md#django)
+	* [Git](programming.md#git)
+	* [Java](programming.md#java)
+	* [JUnit](programming.md#junit)
 	* [JavaScript](programming.md#javascript)
-	* Python
+	* [NodeJS](programming.md#nodejs)
+	* [Python](programming.md#python)
 	* Ruby
+* [Security](security.md)
+	* Cryptography
+	* [Ethical Hacking](security.md#ethical-hacking)
 
 ------
 
