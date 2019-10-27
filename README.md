@@ -10,7 +10,7 @@ This project aims to contain free learning resources for all topics you can thin
 
 * [Data Science](data_science.md)
 	* [Classical Machine Learning](data_science.md#classical-machine-learning)
-	* Computer Vision
+	* [Computer Vision](data_science.md#computer-vision)
 	* [Deep Learning](data_science.md#deep-learning)
 	* Natural Language Processing
 	* [Reinforcement Learning](data_science.md#reinforcement-learning)
