@@ -1,8 +1,8 @@
 # Programming And Software Development
 
-This file contains resources to learn programming and software development. This file is divided into 2 parts - Goal-Oriented and General Purpose. 
+This file contains resources to learn programming and software development. This file is divided into 2 parts - Goal-Oriented and General Purpose.
 
-1. Goal-Oriented resources teach you to deliver an output like making a website or an app. 
+1. Goal-Oriented resources teach you to deliver an output like making a website or an app.
 2. General Purpose resources teach you a particular language like Python or JavaScript.
 
 A Goal-Oriented listing has higher priority so if a resource falls in both general purpose and goal-oriented, it automatically goes in goal-oriented and is not duplicated.
@@ -48,7 +48,7 @@ Website - https://learn.freecodecamp.org/
 
 ### Intro to HTML and CSS by Udacity
 
-Learn HTML and CSS from a free, premium video course by Udacity. 
+Learn HTML and CSS from a free, premium video course by Udacity.
 
 Website - https://www.udacity.com/course/intro-to-html-and-css--ud001
 
@@ -66,7 +66,7 @@ Website - https://internetingishard.com/html-and-css/
 <a name="cpp"></a>
 ## C++
 
-### C++ Programming Tutorial by Caleb Curry 
+### C++ Programming Tutorial by Caleb Curry
 
 This youtube tutorial by Caleb Curry is everything you need to master C++. It starts with the super basics and works your way to intermediate topics.
 
@@ -111,7 +111,7 @@ Website - https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1
 
 ### Django Tutorials - Pretty Printed
 
-Learn Django in these videos by following along as the instructor show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django. 
+Learn Django in these videos by following along as the instructor show you how to build a simple hello world app and then a guestbook app that uses the templates, models, and form functionality with Django.
 
 Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf
 
@@ -127,6 +127,14 @@ After going through innumerable Git tutorials on net and struggling to understan
 Website - https://www.youtube.com/watch?v=AzfVDEBn9hw
 
 [![Git Tutorial For Beginners by Simplilearn](https://user-images.githubusercontent.com/51238282/66634960-d141a580-ec2b-11e9-9088-b96f077c8f72.png)](https://www.youtube.com/watch?v=AzfVDEBn9hw)
+
+### Version Control with Git | Udacity
+
+This is a complete beginner friendly course which covers all the essentials of Git and Github along with the difference between two and provides a hands on approach to the world of Repositories.
+
+Website - https://www.udacity.com/course/version-control-with-git--ud123
+
+[![Udacity - Version Control with Git](https://user-images.githubusercontent.com/29497701/67388497-65a9f180-f5b6-11e9-90c2-e741e47780e8.png)](https://www.udacity.com/course/version-control-with-git--ud123)
 
 
 ## Java
@@ -182,7 +190,7 @@ Website - https://www.youtube.com/watch?v=fBNz5xF-Kx4
 
 ## Python
 
-### Python for Beginners by Mosh Hamedani 
+### Python for Beginners by Mosh Hamedani
 
 This is easy to grasp highly rated Python tutorial on Youtube. All concepts are explained in crystal clear manner suitable for beginners. In later half, it also dives into 3 practical projects which helps in assimilating all the learning throughout.
 
