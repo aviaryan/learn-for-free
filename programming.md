@@ -41,7 +41,8 @@ DemoNuts is an online publication which mainly publishes programming demos,tutor
 
 Website - https://demonuts.com/android-tutorial/
 
-![android](https://user-images.githubusercontent.com/37772050/67633261-2952eb80-f86b-11e9-9859-ba5a2c473a1a.JPG)(https://demonuts.com/android-tutorial/)
+[![android](https://user-images.githubusercontent.com/37772050/67633261-2952eb80-f86b-11e9-9859-ba5a2c473a1a.JPG)](https://demonuts.com/android-tutorial/)
+
 
 ## Web Development
 
