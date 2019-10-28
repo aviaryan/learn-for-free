@@ -34,6 +34,15 @@ Website - https://www.vogella.com/tutorials/android.html
 
 [![vogella android resources screenshot](https://user-images.githubusercontent.com/4047597/66122279-ed768e80-e5fc-11e9-9beb-e57d51e04b33.png)](https://www.vogella.com/tutorials/android.html)
 
+## Demonuts Android Tutorials
+
+DemoNuts is an online publication which mainly publishes programming demos,tutorials and tips to get first step in programming world for students and developers.
+
+Website - https://demonuts.com/android-tutorial/
+
+[![android](https://user-images.githubusercontent.com/37772050/67633261-2952eb80-f86b-11e9-9859-ba5a2c473a1a.JPG)](https://demonuts.com/android-tutorial/)
+
+
 ## Web Development
 
 ### FreeCodeCamp Web Development curriculum
@@ -123,6 +132,14 @@ After going through innumerable Git tutorials on net and struggling to understan
 Website - https://www.youtube.com/watch?v=AzfVDEBn9hw
 
 [![Git Tutorial For Beginners by Simplilearn](https://user-images.githubusercontent.com/51238282/66634960-d141a580-ec2b-11e9-9088-b96f077c8f72.png)](https://www.youtube.com/watch?v=AzfVDEBn9hw)
+
+### Version Control with Git | Udacity
+
+This is a complete beginner friendly course which covers all the essentials of Git and Github along with the difference between two and provides a hands on approach to the world of Repositories.
+
+Website - https://www.udacity.com/course/version-control-with-git--ud123
+
+[![Udacity - Version Control with Git](https://user-images.githubusercontent.com/29497701/67388497-65a9f180-f5b6-11e9-90c2-e741e47780e8.png)](https://www.udacity.com/course/version-control-with-git--ud123)
 
 ## Java
 

@@ -3,7 +3,7 @@
 This file contains resources to learn about Data Science and its sub fields.
 
 * [Classical Machine Learning](#classical-machine-learning)
-* Computer Vision
+* [Computer Vision](#computer-vision)
 * [Deep Learning](#deep-learning)
 * Natural Language Processing 
 * [Reinforcement Learning](#reinforcement-learning)
@@ -27,6 +27,17 @@ A 15 hour fast paced machine learning course by google which gives you a brief i
 Website - https://developers.google.com/machine-learning/crash-course
 
 [![machine learning course by google](https://user-images.githubusercontent.com/33346480/66891424-ca89a880-f006-11e9-80b9-d4d020155c7f.png)](https://developers.google.com/machine-learning/crash-course)
+
+
+## Computer Vision
+
+### Convolutional Neural Networks for Visual Recognition
+
+This lecture collection is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. From this lecture collection, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.
+
+Website - http://cs231n.stanford.edu/
+
+[![Convolutional Neural Networks for Visual Recognition](https://user-images.githubusercontent.com/42378118/67597306-7c07a700-f788-11e9-91d8-1d1717649cc0.png)](http://cs231n.stanford.edu/)
 
 
 ## Deep Learning
