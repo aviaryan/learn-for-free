@@ -146,6 +146,14 @@ Website - https://www.udemy.com/course/java-tutorial/
 
 [![Java for Complete Beginners - John Purcell](https://user-images.githubusercontent.com/51238282/66408079-e8a24800-ea0b-11e9-916e-658dc4848039.png)](https://www.udemy.com/course/java-tutorial/)
 
+### JavaTPoint for Beginners
+
+JavaTPoint is a website where you can get tutorials of java for beginners. They have code snippets for demo purpose.
+
+Website - https://www.javatpoint.com/java-tutorial
+
+[![javaTPoint](https://user-images.githubusercontent.com/37772050/67703531-d3686b80-f970-11e9-84b0-685ab712bf96.JPG)](https://www.javatpoint.com/java-tutorial)
+
 ## JUnit
 
 ### JUnit5 Basics by Java Brains
