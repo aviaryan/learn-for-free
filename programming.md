@@ -155,6 +155,14 @@ Website - https://www.udacity.com/course/version-control-with-git--ud123
 
 ## Java
 
+### Hyperskill from Jetbrains
+
+This course teaches java through building different projects. Based on difficulty, this makes the course very versatile for beginners and advanced programmers.
+
+Website - https://hi.hyperskill.org/
+
+[![Hyperskill](https://user-images.githubusercontent.com/48270786/68081371-060fd980-fe33-11e9-9687-002557f9c564.png)](https://hi.hyperskill.org/)
+
 ### Java for Complete Beginners - John Purcell on Udemy
 
 This is the most popular free Java course on Udemy. If you are a beginner in Java, go for this. It offers a thorough introduction to every Java concept and is taught in digestible sessions.
