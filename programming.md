@@ -70,6 +70,14 @@ Website - https://internetingishard.com/html-and-css/
 
 [![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
+### The Odin Project
+
+A complete web development curriculum covering HTML, CSS, JS, Ruby on Rails and NodeJS. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education. Curriculum is full of projects that will help you build a strong portfolio of work on Github to fill out your resume.  
+
+Website  - https://www.theodinproject.com/
+
+[![TheOdinProject](https://user-images.githubusercontent.com/48270786/68081018-f2617480-fe2c-11e9-99a7-7b34c1dcc96f.png)](https://www.theodinproject.com/)
+
 
 <a name="cpp"></a>
 ## C++
