@@ -34,7 +34,7 @@ Website - https://www.vogella.com/tutorials/android.html
 
 [![vogella android resources screenshot](https://user-images.githubusercontent.com/4047597/66122279-ed768e80-e5fc-11e9-9beb-e57d51e04b33.png)](https://www.vogella.com/tutorials/android.html)
 
-## Demonuts Android Tutorials
+### Demonuts Android Tutorials
 
 DemoNuts is an online publication which mainly publishes programming demos,tutorials and tips to get first step in programming world for students and developers.
 
