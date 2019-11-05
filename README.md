@@ -45,10 +45,12 @@ This project aims to contain free learning resources for all topics you can thin
 	* [NodeJS](programming.md#nodejs)
 	* [Python](programming.md#python)
 	* Ruby
+* [Scaling](scaling.md)
+	* [SystemDesign](scaling.md#system-design)
+	* [Load balancing](scaling.md#load-balancing)
 * [Security](security.md)
 	* Cryptography
-	* [Ethical Hacking](security.md#ethical-hacking)
-
+	* [Ethical Hacking](security.md#ethical-hacking))
 ------
 
 ## Contributing
