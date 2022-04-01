@@ -2,9 +2,14 @@
 
 This file contains resources to learn digital security skills and concepts.
 
-* Cryptography
+* [Cryptography](#cryptography)
 * [Ethical Hacking](#ethical-hacking)
 
+### Cryptography
+
+Most of the Developers and Info-sec people are not much aware of cryptography. Developers lacking in knowledge of cryptography and leading towards serious data-breaches.  
+
+Website - https://cryptopals.com/
 
 ## Ethical Hacking
 
